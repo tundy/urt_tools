@@ -1,0 +1,10 @@
+set Q3MAP2_PATH="D:\Program Files\Games\UrT-Mapping\netradiant\q3map2.exe"
+set URT_BASEPATH="D:\Program Files\Games\UrT-Mapping\UrbanTerror 4.2"
+set URT_ENGINEPATH="D:\Program Files\Games\UrT-Mapping\UrbanTerror 4.2\Quake3-UrT.exe"
+set PACKAGER="D:\Program Files\Games\UrT-Mapping\UrT Map Packager\UrT Map Packager v2.0.0.0.exe"
+
+set SINGLE_TEST_COMPILE=".\scripts\compile-single-test.bat"
+set ADVANCED_TEST_COMPILE=".\scripts\compile-advanced-test.bat"
+set FINAL_COMPILE=".\scripts\compile-final.bat"
+set DECOMPILE=".\scripts\decompile.bat"
+set DEVMAP=".\scripts\devmap.bat"
